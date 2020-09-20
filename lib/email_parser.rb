@@ -12,5 +12,5 @@ end
 def parse
   emails.delete(' ').split.unique
 end
-  
+
 end
